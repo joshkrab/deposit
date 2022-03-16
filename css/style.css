@@ -1,0 +1,13 @@
+body {
+   padding: 150px;
+}
+h1 {
+   background-color: rgb(75, 209, 202);
+   height: 100px;
+   line-height: 100px;
+   text-align: center;
+   border-radius: 5px;
+   -webkit-box-shadow: 4px 4px 14px 1px rgba(34, 60, 80, 0.41);
+   -moz-box-shadow: 4px 4px 14px 1px rgba(34, 60, 80, 0.41);
+   box-shadow: 4px 4px 14px 1px rgba(34, 60, 80, 0.41);
+}
